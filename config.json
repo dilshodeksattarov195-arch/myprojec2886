@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersalculate",
+        "uuid": 2323230,
+        "checksum": "gg05he"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
